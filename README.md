@@ -1,6 +1,6 @@
 # Hey, there!👋🏼 
 
-###  I going to be a frontend Developer 👨🏽‍💻.  
+###  I going to be a web Developer 👨🏽‍💻.  
 
 💪🏼 I am currently studying: **JavaScript**.
 
