@@ -20,5 +20,5 @@
 
 ## 💙 Get in touch: 
 * ✨ Twitter: https://twitter.com/cesarionivar
-* ✨ Instagram: https://instagram.com/ing.cesarionivar
+* ✨ Instagram: https://instagram.com/cesarionivar
 * ✨ LinkdIn: https://www.linkedin.com/in/cesarionivar/
