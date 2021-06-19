@@ -2,13 +2,13 @@
 
 ###  I'm a Developer 👨🏽‍💻.  
 
-🕵 Everyday, I enjoy and love challenges, overcoming them motivates
+🕵 Everyday, I enjoy and love challenges, overcoming them motivates  
     me to continue learning every day and makes me a better professional.
 
-💖  I fall in love in programming every time, it's like a deja vu🥰 
-     and I try to incorporate it in some way in everything that I do.
+💖 I fall in love in programming every time, it's like a deja vu🥰  
+    and I try to incorporate it in some way in everything that I do.
 
-😎 Also, I have a lot of hobbies, such as traveling, listening to music,
+😎 Also, I have a lot of hobbies, such as traveling, listening to music,  
     reading, riding a bicycle, watching TV shows, drinking beer, and others.
 
 
