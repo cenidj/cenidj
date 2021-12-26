@@ -1,20 +1,30 @@
-# Hey, there!👋🏼 
+<p align="center" width="300">
+   <img align="center" width="200" src="https://www.cesarionivar.com/img/greet.png" />
+   <h3 align="center">👋I'm <strong>Cesario Nivar!</strong>  👨🏽‍💻</h3>
+</p>
 
-###  I'm a Developer 👨🏽‍💻.  
+<p align="center">A <strong>Software Developer</strong> who enjoy and love challenges 🕵.<br /> 💙 Get in touch 👇</p>
 
-🕵 Everyday, I enjoy and love challenges, overcoming them motivates  
-    me to continue learning every day and makes me a better professional.
+<p align="center">
+  <a href="https://twitter.com/cesarionivar" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="cesarionivar.com" height="28px" width="28px" />
+  </a>
+   <a href="https://www.linkedin.com/in/cesarionivar/" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluency/240/000000/linkedin.png" alt="cesarionivar.com" height="28px" width="28px" />
+  </a>
+    <a href="https://instagram.com/cesarionivar" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluency/240/000000/instagram-new.png" alt="cesarionivar.com" height="28px" width="28px" />
+  </a>
+</p>
 
-💖 I fall in love in programming every time, it's like a deja vu🥰  
+<br />
+
+> 💖 I fall in love in programming every time, it's like a deja vu🥰  
     and I try to incorporate it in some way in everything that I do.
 
-😎 Also, I have a lot of hobbies, such as traveling, listening to music,  
+> 😎 Also, I have a lot of hobbies, such as traveling, listening to music,  
     reading, riding a bicycle, watching TV shows, drinking beer, and others.
 
+<br />
 
-![Cesario's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarionivar&theme=default&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarionivar&layout=compact&theme=default)
-
-## 💙 Get in touch: 
-* ✨ Twitter: https://twitter.com/cesarionivar
-* ✨ Instagram: https://instagram.com/cesarionivar
-* ✨ LinkdIn: https://www.linkedin.com/in/cesarionivar/
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarionivar&layout=compact&theme=default)
