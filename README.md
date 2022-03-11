@@ -12,9 +12,6 @@
    <a href="https://www.linkedin.com/in/cesarionivar/" target="_blank">
     <img align="center" src="https://img.icons8.com/fluency/240/000000/linkedin.png" alt="cesarionivar.com" height="28px" width="28px" />
   </a>
-    <a href="https://instagram.com/cesarionivar" target="_blank">
-    <img align="center" src="https://img.icons8.com/fluency/240/000000/instagram-new.png" alt="cesarionivar.com" height="28px" width="28px" />
-  </a>
 </p>
 
 <br />
