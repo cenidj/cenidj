@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://www.cesarionivar.com/img/greet.png" />
+   <img align="center" width="200" src="https://www.cesarionivar.com/static/images/avatar.png" />
    <h3 align="center">👋I'm <strong>Cesario Nivar!</strong>  👨🏽‍💻</h3>
 </p>
 
@@ -24,4 +24,4 @@
 
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarionivar&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cenidj&layout=compact&theme=default)
