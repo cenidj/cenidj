@@ -6,7 +6,7 @@
 <p align="center">A <strong>Software Developer</strong> who enjoy and love challenges 🕵.<br /> 💙 Get in touch 👇</p>
 
 <p align="center">
-  <a href="https://twitter.com/cesarionivar" target="_blank">
+  <a href="https://x.com/cesarionivar" target="_blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="cesarionivar.com" height="28px" width="28px" />
   </a>
    <a href="https://www.linkedin.com/in/cesarionivar/" target="_blank">
@@ -20,7 +20,7 @@
     and I try to incorporate it in some way in everything that I do.
 
 > 😎 Also, I have a lot of hobbies, such as traveling, listening to music,  
-    reading, riding a bicycle, watching TV shows, drinking beer, and others.
+    reading, watching TV shows, and others.
 
 <br />
 
