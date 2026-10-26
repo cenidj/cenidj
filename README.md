@@ -1,7 +1,3 @@
-<p align="center" width="300">
-   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/55708868?v=4" />
-</p>
-
 # 👋 Hi, I'm Cesario Nivar!
 
 ### 🐍 Aspiring Python Backend Developer
